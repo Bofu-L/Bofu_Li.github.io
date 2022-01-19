@@ -1,0 +1,88 @@
+---
+title: "Bofu Li"
+description: |
+  Research Associate, PhD, Killam Scholar<br>
+  Department of Civil & Resource Engineering<br>
+  Dalhousie University<br>
+  Halifax, Nova Scotia, Canada<br>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[Bofu's LinkedIn](https://www.linkedin.com/in/bofu-li-8381a6198/)
+
+[Bofu's Google Scholar Profile](https://scholar.google.com/citations?user=T10gXrMAAAAJ&hl=en&oi=ao)
+
+# Academic background    
+
+2016-2020 PhD, Civil Engineering<br>
+Dalhousie University, Halifax,NS, Canada<br>
+Thesis title: [Understanding Of Silicate-based Corrosion Inhibitor For Controlling Lead Release And Water Quality In Drinking Water Distribution Systems](https://dalspace.library.dal.ca/xmlui/handle/10222/80064) 
+  
+2014-2016 MASc, Environmental Engineering<br>
+Dalhousie University,Halifax,NS, Canada<br> 
+Thesis title: [Enhancement of biological activity in biofilters by amino acid supplementation](https://dalspace.library.dal.ca/handle/10222/72200)
+  
+2010-2013 MS, Municipal Engineering<br>
+Wuhan University of Technology, Wuhan, Hubei, China<br>
+Thesis title: Enhanced biological/chemical phosphorus removal in Longwangzui Wastewater Treatment Plant (WWTP)
+  
+2006-2010 BEng, Water Supply and Sewerage Engineering<br>
+Wuhan University of Technology, Wuhan, Hubei, China<br>
+Senior design: Preliminary design of sanitary/storm sewers and a wastewater treatment plant in Tianmen City, Hubei Province
+
+# Skills  
+
+- Proficient in R, web application development (Shiny) and GIS (Leaflet) 
+- Drinking water/wastewater treatment, underground pipeline and corrosion control. 
+- Big data and modeling. Research interest is to solve public health issues by water treatment technology and data science.      
+- Well-developed written and verbal communication skills
+- Wrote 7 peer-reviewed journal articles (6 as first author and 1 as co-author)
+- Presented work at international academic conferences
+- Well-developed data analysis skills including data visualization, website application development, and modeling 
+
+
+# Publications
+
+1. [**Li, B.**, Trueman, B.F., Doré, E., & Gagnon, G.A. (2021). Effectiveness of sodium silicates for lead corrosion control: A critical review of current data. Environmental Science & Technology Letters, 8(11), 932-939.](https://pubs.acs.org/doi/full/10.1021/acs.estlett.1c00671)
+
+2. [**Li, B.**, Trueman, B.F., Munoz, S., Locsin, J.M., & Gagnon, G.A. (2021). Impact of sodium silicate on lead release and colloid size distributions in drinking water. Water Research, 190, 116709.](https://doi.org/10.1016/j.watres.2020.116709)
+
+3. [**Li, B.**, Trueman, B.F., Rahman, M.S., & Gagnon, G.A. (2021). Controlling lead release due to uniform and galvanic corrosion—an evaluation of silicate‑based inhibitors. Journal of Hazardous Materials, 407, 124707.](https://doi.org/10.1016/j.jhazmat.2020.124707)
+
+4. [**Li, B.**, Trueman, B.F., Locsin, J.M., Gao, Y., Rahman, M.S., Park, Y., & Gagnon, G.A. (2021). Impact of sodium silicate on lead release from lead (II) carbonate. Environmental Science: Water Research & Technology, 7(3), 599–609.](https://pubs.rsc.org/en/content/articlepdf/2021/ew/d0ew00886a)
+
+5. [Hayes, E., Sweeney, C., Anderson, L., **Li, B.**, Erjavec, G., Gouthro, M., Krkosek, W., Stoddart, A., & Gagnon, G. (2021). A novel passive sampling approach for SARS‑CoV‑2 in wastewater in a Canadian province with low prevalence of COVID‑19. Environmental Science: Water Research & Technology, 7(9), 1576–1586.](https://pubs.rsc.org/en/content/articlehtml/2021/ew/d1ew00207d)
+
+6. [**Li, B.**, Trueman, B.F., Rahman, M.S., Gao, Y., Park, Y., and Gagnon, G.A. (2019). Understanding the impacts of sodium silicate on water quality and iron oxide particles (**Journal Cover**). Environmental Science: Water
+Research& Technology, 5(8), 1360–1370.](https://pubs.rsc.org/en/content/articlelanding/2019/EW/C9EW00257J)
+
+7. [**Li, B.**, Stoddart, A.K., & Gagnon, G.A. (2018). Chapter 11: Mean oxidation state of organic carbon: A novel application to evaluate the extent of oxidation of natural organic matter in drinking water biological treatment. Microbiological Sensors for the Drinking Water Industry, International Water Association Publishing.](https://www.iwapublishing.com/sites/default/files/11_Skovhus_Ch11_R3.pdf)
+
+# First author conference presentations & posters
+
+1. **Li, B.**, Trueman, B.F., & Gagnon, G.A. (2020). Evaluation of silicate‑ and phosphate‑based corrosion inhibitors using a pilot‑scale distribution system. In AWWA Webinar Series Contaminants of Concern: Managing Lead and Manganese. American Water Works Association.
+
+2. **Li, B.**, Trueman, B.F., & Gagnon, G.A. (2019). Understanding the effects of sodium silicate on water quality and iron oxide particles. In AWWA Water Quality Technology Conference. American Water Works Association.
+
+3. **Li, B.**, Trueman, B.F., Rahman, M.S., & Gagnon, G.A. (2018). Bench‑scale evaluation of silicate‑based corrosion inhibitors on lead release control and water quality. In ACWWA Annual Conference. American Water Works Association.
+
+4. **Li, B.**, Anderson, L., Stoddart, A., & Gagnon, G.A. (2018). Developing new metrics to understand the availability of carbon for biological processes. In International Symposium Potable Reuse and Biological Treatment. American Water Works Association.
+
+5. **Li, B.**, Fu, S., Stoddart, A., & Gagnon, G.A. (2016). Substrate and biomass: An assessment of specific monitoring tools for drinking water biofiltration. In AWWA Water Quality Technology Conference. American Water Works Association.
+
+#  Committe member and peer-reviewer
+
+- [Steering committee member in Canadian wastewater-based epidemiology data steering group](https://github.com/Big-Life-Lab/PHES-ODM/wiki/Steering-Group-Members)
+
+- Water Quality Research Journal
+
+- Journal of Hazardous Materials
+
+# Funding & Awards  
+- 2021 Wastewater Surveillance of SARS-CoV-2 in Nova Scotia, Mitacs Accelerate 
+- 2017-2020 Killam Laureates, Killam Trust & Dalhousie University
+- 2017 President’s Award, Dalhousie University
+- 2014-2015 NSERC CREATE: STEWARD

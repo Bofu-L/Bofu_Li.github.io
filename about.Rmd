@@ -1,0 +1,18 @@
+---
+title: "About me"
+description: |
+  Research Associate, PhD, Killam Scholar<br>
+  Department of Civil & Resource Engineering<br>
+  Dalhousie University<br>
+  Halifax, Nova Scotia, Canada<br>
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+[Bofu's LinkedIn](https://www.linkedin.com/in/bofu-li-8381a6198/)
+
+[Bofu's Google Scholar Profile](https://scholar.google.com/citations?user=T10gXrMAAAAJ&hl=en&oi=ao)
+
+Project handler at Centre of Water Resources Studies, Dalhousie University. 10+ years experience specializing in the drinking water and wastewater treatment, aquatic chemistry and corrosion control in drinking water. Professional skills in environmental data science, computer programming (R, data dashboard, packages), GIS (Leaflet) and statistical modeling. Experience in engineering risk assessment, water regulatory, water and wastewater treatment design and big data. Working toward registration as a professional engineer (P. Eng.) and project management professional (PMP). 
