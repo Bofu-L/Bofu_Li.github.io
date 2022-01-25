@@ -3,7 +3,6 @@ name: "Github_pages_website"
 title: "Bofu Li, PhD, Killam Scholar"
 navbar:
  search: true
-
  right:
     - text: "Home"
       href: index.html
@@ -17,8 +16,10 @@ navbar:
           href: https://cwrs.shinyapps.io/public_dashboard/
         - text: "Nova Scotia Wastewater COVID-19 Data Dashboard (research partner's version)"
           href: https://cwrs.shinyapps.io/APP_version_1_0/
+        - text: "Site Reported Dashboard"
+          href: https://cwrs.shinyapps.io/LU_data_dashboard/
     - icon: fab fa-github
-      href: https://github.com/Bofu-L
+      href: https://github.com/Bofu-L/Git_hub_pages/
 output: distill::distill_article
 output_dir: "docs"  # docs directory of master branch
 ---

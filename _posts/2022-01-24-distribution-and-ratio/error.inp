@@ -1,0 +1,98 @@
+SOLUTION_RAW                 1 water
+  -temp                      25
+  -pressure                  1
+  -potential                 0
+  -total_h                   111.02445484906
+  -total_o                   55.54818873762
+  -cb                        -0.031797832316517
+  -density                   0.99787443916461
+  -totals
+    C(4)                     0.0099908417284166
+    Cl                       0.0005
+    Na                       0.00050000000000001
+    O(0)                     1.6522272111329e-22
+    P                        3.2285390455648e-05
+  -pH                        12
+  -pe                        4
+  -mu                        0.026227870855635
+  -ah2o                      0.99961158543833
+  -mass_water                1
+  -soln_vol                  1.0029657574233
+  -total_alkalinity          0.031765546926062
+  -activities
+    C(4)                     -2.2649609294901
+    Cl                       -3.3718670094277
+    E                        -4
+    H(0)                     -35.150000000001
+    Na                       -3.4086874421808
+    O(0)                     -22.080337438141
+    P                        -5.3893322351575
+  -gammas
+EQUILIBRIUM_PHASES_RAW       1 Solid
+  # EXCHANGE_MODIFY candidates; use new_def=true #
+  -new_def                   0
+  -component                 Fix_pH
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -add_formula           HCl
+      -si                    -12
+      -moles                 1000000
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                -12
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -component                 Fix_pe
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -add_formula           O2
+      -si                    -4
+      -moles                 1000000
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                -4
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -component                 Hxypyromorphite
+      # EQUILIBRIUM_PHASES_MODIFY candidate identifiers #
+      -si                    0
+      -moles                 1
+      -force_equality        0
+      -dissolve_only         0
+      -precipitate_only      0
+      # PPassemblage workspace variables #
+      -si_org                0
+      -delta                 0
+      -initial_moles         0
+      -totals                
+  -eltList                   # List of all elements in phases and alternate reactions
+    Cl                       1
+    H                        3
+    O                        15
+    P                        3
+    Pb                       5
+    e                        1
+  # PPassemblage workspace variables #
+  -assemblage_totals
+SURFACE_RAW                  1 
+  # SURFACE_MODIFY candidate identifiers #
+  -type                      2
+  -dl_type                   0
+  -only_counter_ions         0
+  -thickness                 1e-08
+  -debye_lengths             0
+  -DDL_viscosity             1
+  -DDL_limit                 0.8
+  # SURFACE_MODIFY candidates with new_def=true #
+  -new_def                   1
+  -tidied                   1
+  -sites_units               0
+  -solution_equilibria       0
+  -n_solution                -999
+  # Surface workspace variables #
+  -transport                 0
+  -totals                    
