@@ -12,7 +12,7 @@ navbar:
       href: CV.html
     - text: "Data Dashboard"
       menu:
-        - text: "Nova Scotia Wastewater COVID-19 Data Dashboard (public version - temporarily closed)"
+        - text: "Nova Scotia Wastewater COVID-19 Data Dashboard (public version)"
           href: https://cwrs.shinyapps.io/public_dashboard/
         - text: "Nova Scotia Wastewater COVID-19 Data Dashboard (research partner's version)"
           href: https://cwrs.shinyapps.io/APP_version_1_0/

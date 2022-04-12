@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2022-04-12-nova-scotia-wastewater-covid-19-dashboard-public-version/",
+    "title": "Nova Scotia Wastewater COVID-19 dashboard (public version)",
+    "description": "A dashboard I established to illustrates the SARS-CoV-2 viral RNA signal in wastewater collected from four wastewater treatment facilities (Halifax, Dartmouth, Mill Cove, and Eastern Passage) in Nova Scotia's central zone.",
+    "author": [
+      {
+        "name": "Bofu Li",
+        "url": {}
+      }
+    ],
+    "date": "2022-04-12",
+    "categories": [],
+    "contents": "\r\nI am glad that the Nova Scotia wastewater COVID-19 dashboard finally go public. This is a brief version which only show the cumulative viral loading from four wastewater treatment plants in Halifax. Hopefully, I can open another dashboard (research version) in the near future.\r\nFor attribution, please cite this dashboard as: Li, B.; Pickard, R.; Hayes, E.K.; Sweeney, C.L.; Erjavec, G.B.; Stoddart, A.K. and Gagnon, G.A. Nova Scotia COVID-19 Wastewater Surveillance - Centre for Water Resources Studies, Dalhousie University. 2022. https://cwrs.shinyapps.io/public_dashboard/.\r\n\r\n\r\n\r\n\r\n\r\n\r\nFigure 1: Link to the dashboard (full screen): https://cwrs.shinyapps.io/public_dashboard/\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-04-12T13:02:34-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2022-01-24-distribution-and-ratio/",
     "title": "Lead (Pb) equilibrium solubility prediction and visualization",
     "description": "Lead (Pb) equilibrium solubility prediction and visualization.",
